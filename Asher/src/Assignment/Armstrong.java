@@ -32,9 +32,9 @@ import java.util.Scanner;
 			Scanner scan = new Scanner(System.in);
 			
 			System.out.println("Enter the number");
-			int num=scan.nextInt();
+			int num1=scan.nextInt();
 			
-			Armstrong arm = new Armstrong(num);
+			Armstrong arm = new Armstrong(num1);
 		}
 	}
 
